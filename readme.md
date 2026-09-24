@@ -6,7 +6,7 @@
 
 To test out the chain join, most prominently used in 3D dragons, I made a lil' caterpie (or <<Chenipan>> in french)
 
-![Caterpie in Blender](<02 - Caterpie/Caterpie.png>)
+![Caterpie - Blender](<02 - Caterpie/Caterpie - Blender.png>)
 
 The chains can be seen here. For a first attempt, I didn't try to hide the chains at all. They all printed fine, except the second-to-last smallest chain. The printing resolution caused the chains to merge, and the chain completely broke when I tried crimping the support off.
 
