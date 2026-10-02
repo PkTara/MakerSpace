@@ -1,10 +1,37 @@
 
 
-# My Projects
+# My Maker Projects
+
+3) [Chamrousse Mountains](#3---chamrousse-mountain)
+![alt text](<03 - Chamrousse Mountains/Blender Mountain Model.png>)
+2) [Caterpie with Chain](#2---caterpie-chain)
+![alt text](<02 - Caterpie/Painted Caterpie.jpg>)
+3) [NULSCC Keychain](#1---nulscc-keyring)
+![alt text](<01 - NULSCC/NULSCC Keychain.png>)
+
+## 3 - Chamrousse Mountain
+
+![Chamrousse Blender Model](<03 - Chamrousse Mountains/Blender Mountain Model.png>)
+
+LIDAR data coverage of the France is extremely good, with 10 points per meter. However, directly downloading the data for the Chamrousse area would have been over 10GB, and I couldn't find any DSM data to directly get a 3D model. 
+
+I thus went to online premade tools, and found [TerraPrinter](https://terraprinter.com/) very good to use.
+
+However, I then had to deal with manipulating a highly detailed model, which I don't have experience with in Blender. This made even cutting the region down for print times difficult, as boolean subtract failed me, and bisect cuts lead to gaping open faces.
+
+![Blender - Gaps](<03 - Chamrousse Mountains/Blender - Gaps.png>)
+
+With the lab nearing close time, all I could do in the end was cut it down to size.
+
+![Cura - Gyroid fill](<03 - Chamrousse Mountains/Cura - Gyroid.png>)
+
+I also used gyroid fill for the first time, which should help reduce warping, increase strength, and reduce material. 
+
+Once I get my head around manipulating detailed models, I'd love to turn this into a portable travel map.
 
 ## 2 - Caterpie Chain
 
-To test out the chain join, most prominently used in 3D dragons, I made a lil' caterpie (or <<Chenipan>> in french)
+To test out the chain join, most prominently used in 3D dragons, I made a lil' caterpie (or "Chenipan" in french)
 
 ![Caterpie - Blender](<02 - Caterpie/Caterpie - Blender.png>)
 
@@ -16,9 +43,14 @@ I also used tree supports for the first time!
 
 ![Caterpie in Cura with supports](<02 - Caterpie/Caterpie - Cura.png>)
 
-(Will get a better picture soon - I couldn't finish crimping / sanding before the chain broke, so here I'm waiting until the glue dries)
+![Unpainted Caterpie](<02 - Caterpie/Unpainted Caterpie.jpg>)
 
-![Caterpie Model](<02 - Caterpie/Caterpie.jpg>)
+![Painted Caterpie](<02 - Caterpie/Painted Caterpie.jpg>)
+
+Not a bad final result!
+
+The chains move, but not as freely as I like. If I were to make a second attempt, I'd improve the body shape to cover over the chain, and also leave more space inside the chains. Mixing blocky chains and torus chains may also lead to better results.
+
 # 1 - NULSCC Keyring
 
 My first ever 3D print! I'm not skilled enough in Blender yet to make any organic shape, like the speed climbing holds, so I instead made the shape 2D with bézier curves.
