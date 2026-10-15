@@ -2,12 +2,32 @@
 
 # My Maker Projects
 
+4) [Ball Joint Skeleton](#4---ball-joint-skeleton)
+![alt text](<04 - Ball Joint Skeleton/Skelly in Hand.jpg>)
 3) [Chamrousse Mountains](#3---chamrousse-mountain)
 ![alt text](<03 - Chamrousse Mountains/Blender Mountain Model.png>)
 2) [Caterpie with Chain](#2---caterpie-chain)
 ![alt text](<02 - Caterpie/Painted Caterpie.jpg>)
-3) [NULSCC Keychain](#1---nulscc-keyring)
+1) [NULSCC Keychain](#1---nulscc-keyring)
 ![alt text](<01 - NULSCC/NULSCC Keychain.png>)
+
+## 4 - Ball Joint Skeleton
+
+Happy Halloween Season!
+
+![alt text](<04 - Ball Joint Skeleton/Skelly in Hand.jpg>)
+
+
+My second articulated joint - which apparently really is as simple as a sphere inserted into the head! I was generous with the tolerance, being more scared of it being bonded together than it being too loose. And while it does pop out if you push it too far, it pivots rather smoothly! PLA _will_ loosen even more as a material, so that's something to take into account for next time. 
+
+![alt text](<04 - Ball Joint Skeleton/Skelly Join.jpg>)
+
+I was printing again close to closing, so I didn't have time to use the pryers there.
+
+So I used nailclippers. And the experience was horrible. But it free'd up the ball joint :D
+
+![alt text](<04 - Ball Joint Skeleton/Skeleton Shavings.jpg>)
+
 
 ## 3 - Chamrousse Mountain
 
